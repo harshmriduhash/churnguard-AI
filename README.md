@@ -79,7 +79,7 @@ Import customer data with these columns:
 - support_tickets_30d
 - payment_status
 
-##7 Project Structure:
+##7 Project Structure:-
 
 ```
 churnguard/
