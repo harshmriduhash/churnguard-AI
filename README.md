@@ -56,7 +56,7 @@ npm run dev
 
 Visit [http://localhost:3000](http://localhost:3000)
 
-## Deployment
+##4 Deployment
 
 Deploy to Vercel following the same process as the other MVPs. Add all environment variables in the Vercel dashboard.
 
