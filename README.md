@@ -11,7 +11,7 @@ ChurnGuard helps SaaS companies predict churn and take proactive action. Upload 
 - **Automated Outreach**: Generate personalized emails ready to send
 - **Data Visualization**: Track trends and intervention success rates
 
-##3 Tech Stack
+##3 Tech Stack:
 
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
