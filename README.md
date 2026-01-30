@@ -1,4 +1,4 @@
-## ChurnGuard - AI-Powered Customer Success Platform
+##1 ChurnGuard - AI-Powered Customer Success Platform
 
 ChurnGuard helps SaaS companies predict churn and take proactive action. Upload customer data, get AI-powered health scores, churn risk assessments, and personalized intervention recommendations.
 
