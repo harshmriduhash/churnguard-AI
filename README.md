@@ -9,7 +9,7 @@ ChurnGuard helps SaaS companies predict churn and take proactive action. Upload 
 - **Actionable Insights**: Get specific intervention recommendations
 - **Upsell Opportunities**: Identify expansion opportunities for healthy customers
 - **Automated Outreach**: Generate personalized emails ready to send
-- **Data Visualization**: Track trends and intervention success rates
+- **Data Visualization**: Track trends & intervention success rates
 
 ##3 Tech Stack:-
 
