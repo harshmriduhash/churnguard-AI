@@ -60,7 +60,7 @@ Visit [http://localhost:3000](http://localhost:3000)
 
 Deploy to Vercel following the same process as the other MVPs. Add all environment variables in the Vercel dashboard.
 
-## Pricing Plans:-
+##5 Pricing Plans:-
 
 - **Starter**: $299/month (up to 100 customers)
 - **Growth**: $699/month (up to 500 customers)
