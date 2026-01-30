@@ -2,7 +2,7 @@
 
 ChurnGuard helps SaaS companies predict churn and take proactive action. Upload customer data, get AI-powered health scores, churn risk assessments, and personalized intervention recommendations.
 
-##2 Features:
+##2 Features:-
 
 - **Health Scoring**: AI-powered customer health scores (0-100)
 - **Churn Prediction**: Identify at-risk customers before they churn
