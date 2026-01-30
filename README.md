@@ -66,7 +66,7 @@ Deploy to Vercel following the same process as the other MVPs. Add all environme
 - **Growth**: $699/month (up to 500 customers)
 - **Scale**: $1,499/month (unlimited customers)
 
-## CSV Import Format
+##6 CSV Import Format
 
 Import customer data with these columns:
 - customer_name
