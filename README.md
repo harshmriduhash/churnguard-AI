@@ -23,7 +23,7 @@ ChurnGuard helps SaaS companies predict churn and take proactive action. Upload 
 - **Payments**: Stripe
 - **Deployment**: Vercel
 
-## Setup Instructions:-
+##5 Setup Instructions:-
 
 ### 1. Install Dependencies
 
